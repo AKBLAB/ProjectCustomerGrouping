@@ -11,7 +11,7 @@ library(ggplot2)
 
 
 
-customer_data=read.csv("D:/Data Science/ProjectCustomerGrouping/customer_grouping_dataset/Mall_Customers.csv")
+customer_data=read.csv("D:/Data Science/ProjectCustomerGrouping/customer_grouping_dataset/Customers_data.csv")
 str(customer_data)
 
 names(customer_data)
